@@ -4,7 +4,7 @@ name: default
 
 steps:
 - name: greeting
-  image: alpine
+  image: this-is-a-fake-image
   commands:
   - echo hello
   - echo world
